@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Playwright
+node_modules/
+playwright-report/
+test-results/
+
+# Generated project data (kept locally, not versioned)
+data/*.csv
+data/*.json
+screenshots/*.png
+logs/*.log
+
+# Keep folder structure in git
+!data/.gitkeep
+!screenshots/.gitkeep
+!logs/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
