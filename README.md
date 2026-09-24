@@ -209,9 +209,9 @@ right CSS selector for its price element to `config/products.json`; no code chan
 
 ## Submission checklist
 
-- [ ] Push this repository to GitHub
-- [ ] Confirm `.env` is **not** committed (check `.gitignore`)
-- [ ] Record a 2–5 minute demo video showing: `python -m src.main run`, the console summary,
+- [x] Push this repository to GitHub
+- [x] Confirm `.env` is **not** committed (check `.gitignore`)
+- [x] Record a 2–5 minute demo video showing: `python -m src.main run`, the console summary,
       generated screenshots, `data/price_history.json`/`.csv`, and the log file
-- [ ] Write the mandatory LinkedIn post
-- [ ] Link the GitHub repo in the submission form
+- [x] Write the mandatory LinkedIn post
+- [x] Link the GitHub repo in the submission form
